@@ -1,0 +1,2 @@
+Fila 79, Código: 26911, Error: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`Stock`.`Roturas`, CONSTRAINT `Roturas_ibfk_1` FOREIGN KEY (`Codigo`) REFERENCES `maestro_articulos` (`Codigo`))
+Fila 80, Código: 26987, Error: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`Stock`.`Roturas`, CONSTRAINT `Roturas_ibfk_1` FOREIGN KEY (`Codigo`) REFERENCES `maestro_articulos` (`Codigo`))
